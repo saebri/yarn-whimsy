@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Handmade With Love Saebri Rayne Yarn Whimsy
 
 You can use the [editor on GitHub](https://github.com/saebri/yarn-whimsy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
